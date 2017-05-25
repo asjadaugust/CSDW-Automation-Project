@@ -48,5 +48,17 @@
 	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/poi-3.15/lib/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/poi-3.15/lib/commons-collections4-4.1.jar"/>
 	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itextpdf-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itextpdf-5.5.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itext-pdfa-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itext-pdfa-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itext-pdfa-5.5.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itext-xtra-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itext-xtra-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-itext-xtra-5.5.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-xmlworker-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-xmlworker-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/workspace/CSDW-Automation-Project/externaljars/itext5-5.5.11/itext5-xmlworker-5.5.11-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
